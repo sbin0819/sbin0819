@@ -31,6 +31,6 @@
 - Docker
 - AWS
 - Vue
-- JQuery
+- jQuery
 - linux
 
