@@ -14,6 +14,7 @@
 - 꾸준히 사용할 대표사이트 개설
 - Today I Learn 기록 시작
 - docker/kube 공부
+- e-commerce 관련 로직 준비
 
 
 ### 기술 스택 
