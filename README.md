@@ -9,11 +9,12 @@
 인프라와 DB 쪽 공부를 틈 날 때 하고 있다. (다른 공부하기도 바빠서 조금 미루고 있다.)
 
 
-### 6월 계획 📝
+### 8월 계획 📝
 
-- 알고리즘 스터디
-- 메신저 프로젝트
 - Today I Learn 기록 시작
+- nest
+- serverless
+- astro
 
 
 ### 기술 스택 
@@ -25,9 +26,7 @@
 - storybook
 
 서브 ⭐️⭐️⭐️
-- SQL
 - Express
-- GraphQL
 - Docker
 - AWS
 - Vue
