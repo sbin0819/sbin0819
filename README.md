@@ -8,7 +8,7 @@
 - Today I Learn 기록 시작
 - nest
 - serverless
-- astro
+- flutter
 
 
 ## &#x1f4c8; GitHub Stats
