@@ -3,12 +3,12 @@
 안녕하세요 👨‍💻
 프론트엔드 개발자 하수빈 입니다.
 
-### 8월 계획 📝
+### 9월 계획 📝
 
 - Today I Learn 기록 시작
-- nest
-- serverless
 - flutter
+- react-native
+- test
 
 
 ## &#x1f4c8; GitHub Stats
