@@ -3,12 +3,13 @@
 안녕하세요 👨‍💻
 프론트엔드 개발자 하수빈 입니다.
 
-### 9월 계획 📝
+[YOUTUBE LINK](https://www.youtube.com/channel/UCy5eRpXqUy8mzQ136OtSi6A)
 
-- Today I Learn 기록 시작
+### 12월 계획 📝
+
+- youtube 영상
 - flutter
-- react-native
-- test
+- cypress
 
 
 ## &#x1f4c8; GitHub Stats
