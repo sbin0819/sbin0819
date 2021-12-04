@@ -3,8 +3,9 @@
 안녕하세요 👨‍💻
 프론트엔드 개발자 하수빈 입니다.
 
-[YouTube LINK](https://www.youtube.com/channel/UCy5eRpXqUy8mzQ136OtSi6A)
-[Blog LINK](https://velog.io/@sbinha)
+[📺 YouTube LINK](https://www.youtube.com/channel/UCy5eRpXqUy8mzQ136OtSi6A)
+<br>
+[📝 Blog LINK](https://velog.io/@sbinha)
 
 ### 12월 계획 📝
 
