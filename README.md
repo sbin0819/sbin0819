@@ -8,7 +8,7 @@
 ### 12월 계획 📝
 
 - youtube 영상
-- flutter
+- flutter 배포
 - cypress
 
 
