@@ -10,7 +10,7 @@
 ### 4 ~ 5월 계획 📝
 
 - nextjs project
-- solidity
+- solidity 공부
 - discord bot
 - react-native
 
