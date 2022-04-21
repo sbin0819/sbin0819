@@ -10,9 +10,11 @@
 ### 4 ~ 5월 계획 📝
 
 - nextjs project
+- web3.js
 - solidity 공부
-- discord bot
 - react-native
+- discord bot
+
 
 
 ## &#x1f4c8; GitHub Stats
