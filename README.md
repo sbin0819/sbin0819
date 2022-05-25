@@ -7,13 +7,11 @@
 <br>
 📝 [Blog Link](https://velog.io/@sbinha)
 
-### 4 ~ 5월 계획 📝
+### 5 ~ 6월 계획 📝
 
 - nextjs project
-- web3.js
-- solidity 공부
 - react-native
-- discord bot
+- web3.js
 
 
 
