@@ -11,7 +11,8 @@
 
 - nextjs project
 - react-native
-- web3.js
+- web3
+- three.js
 
 
 
