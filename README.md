@@ -7,7 +7,7 @@
 <br>
 📝 [Blog Link](https://velog.io/@sbinha)
 
-### 5 ~ 6월 계획 📝
+### 6월 계획 📝
 
 - nextjs project
 - react-native
