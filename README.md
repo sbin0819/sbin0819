@@ -5,7 +5,8 @@
 
 📺 [YouTube Link](https://www.youtube.com/channel/UCy5eRpXqUy8mzQ136OtSi6A)
 <br>
-📝 [Blog Link](https://velog.io/@sbinha)
+📝 [Velog Blog Link](https://velog.io/@sbinha)
+📝 [tistory Blog Link](https://sbinha.tistory.com/)
 
 ### 6월 계획 📝
 
