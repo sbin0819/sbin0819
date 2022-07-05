@@ -9,7 +9,7 @@
 <br>
 📝 [tistory Blog Link](https://sbinha.tistory.com/)
 
-### 6월 계획 📝
+### 7월 계획 📝
 
 - nextjs project
 - react-native
