@@ -14,7 +14,7 @@
 - svelte 프로젝트
 - 알고리즘 공부
 - npm library 배포 (작은 거라도)
-
+- 밀린 it 도서들 읽기 (함수형 코딩, 리팩터링...)
 
 
 ## &#x1f4c8; GitHub Stats
