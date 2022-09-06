@@ -9,12 +9,11 @@
 <br>
 📝 [tistory Blog Link](https://sbinha.tistory.com/)
 
-### 7월 계획 📝
+### 9월 계획 📝
 
-- nextjs project
-- react-native
-- web3
-- three.js
+- svelte 프로젝트
+- 알고리즘 공부
+- npm library 배포 (작은 거라도)
 
 
 
