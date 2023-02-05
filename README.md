@@ -9,7 +9,7 @@
 <br>
 📝 [tistory Blog Link](https://sbinha.tistory.com/)
 
-### 9월 계획 📝
+### 2월 계획 📝
 
 - cs 공부
 - 알고리즘 공부
