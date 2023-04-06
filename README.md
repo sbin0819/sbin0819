@@ -1,5 +1,5 @@
 <div style="display: flex; margin-bottom: 50px; gap: 40px">
-    <a style="max-width: 300px" href="https://app.daily.dev/sbin"><img stlye="float: right;" src="https://api.daily.dev/devcards/05f7e20b0d8e414c9297d5cad50a6dd5.png?r=aq1" width="400" alt="sbin's Dev Card"/></a>
+    <a style="max-width: 300px" href="https://app.daily.dev/sbin"><img stlye="float: right;" src="https://api.daily.dev/devcards/05f7e20b0d8e414c9297d5cad50a6dd5.png?r=aq1" alt="sbin's Dev Card"/></a>
     <div>
         <div style="font-size: 18px; font-weight:bold;">Who am I?</div>
         <div>안녕하세요 👨‍💻 프론트엔드 개발자 하수빈 입니다.</div>
