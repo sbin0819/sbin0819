@@ -16,16 +16,6 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 
 ## &#x1f4c8; GitHub Stats
