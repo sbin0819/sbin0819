@@ -1,5 +1,5 @@
 <div style="display: flex; margin-bottom: 50px; gap: 40px">
-    <div style="max-width: 300px">
+    <div>
         <a href="https://app.daily.dev/sbin"><img src="https://api.daily.dev/devcards/05f7e20b0d8e414c9297d5cad50a6dd5.png?r=aq1" width="400" alt="sbin's Dev Card"/></a>
     </div>
     <div>
