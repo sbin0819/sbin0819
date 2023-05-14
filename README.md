@@ -15,19 +15,7 @@
 
 ## npm libs
 
-  - [react-audio-wizard](https://www.npmjs.com/package/react-audio-wizard)
-
-
-
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+- [react-audio-wizard](https://www.npmjs.com/package/react-audio-wizard)
 
 
 
