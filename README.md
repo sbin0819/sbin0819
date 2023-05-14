@@ -1,8 +1,11 @@
-<a href="https://app.daily.dev/sbin"><img align="center" src="https://api.daily.dev/devcards/05f7e20b0d8e414c9297d5cad50a6dd5.png?r=aq1"  width="300" style="margin-right: 70px;" alt="sbin's Dev Card"/></a>
+
 
 ## Who am I?
 
-안녕하세요 👨‍💻 프론트엔드 개발자 하수빈 입니다.
+<div style="display: flex; alignItems: center; justify-content: space-between; width: 100%">
+ <p>안녕하세요 👨‍💻 프론트엔드 개발자 하수빈 입니다.</p>
+ <a href="https://app.daily.dev/sbin"><img src="https://api.daily.dev/devcards/05f7e20b0d8e414c9297d5cad50a6dd5.png?r=aq1"  width="200" alt="sbin's Dev Card"/></a>
+</div>
 
 ## content
 
