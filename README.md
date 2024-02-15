@@ -19,6 +19,7 @@
 ## npm libs
 
 - [react-audio-wizard](https://www.npmjs.com/package/react-audio-wizard)
+- [react-video-wizard](https://www.npmjs.com/package/react-video-wizard)
 
 
 
